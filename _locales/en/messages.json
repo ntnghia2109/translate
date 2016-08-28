@@ -1,0 +1,11 @@
+{
+  "extension_name": {
+    "message": "Google Translate"
+  },
+  "extension_description": {
+    "message": "Google Translate for selected text or current page"
+  },
+  "title": {
+    "message": "Translate"
+  }
+}
